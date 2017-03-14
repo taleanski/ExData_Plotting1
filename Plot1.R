@@ -1,3 +1,4 @@
+# Create a variable to locate your data file (change below as necessary)
 file <- 'Documents/Coursera/Exploratory Data Analysis/Wk 1 Project/household_power_consumption.txt'
 
 # Read whole dataset
